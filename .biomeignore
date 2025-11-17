@@ -1,0 +1,3 @@
+**/.next/**
+src/components/ui/**
+src/lib/utils.ts

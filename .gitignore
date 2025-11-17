@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Bun
+bun.lockb
+
+# Don't commit other lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Cache files
+.eslintcache
+.biomecache

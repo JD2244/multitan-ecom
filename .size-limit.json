@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Client Bundle",
+    "path": ".next/static/chunks/**/*.js",
+    "limit": "300 KB"
+  }
+]

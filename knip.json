@@ -1,0 +1,6 @@
+{
+  "entry": ["src/app/**/*.{ts,tsx}", "src/**/*.{ts,tsx}"],
+  "project": ["**/*.{ts,tsx}"],
+  "ignore": [".next/**", "node_modules/**", "out/**"],
+  "exclude": ["dependencies", "devDependencies", "files", "unlisted"]
+}
