@@ -51,3 +51,12 @@ pnpm-lock.yaml
 # Cache files
 .eslintcache
 .biomecache
+
+# IDE
+.vscode/
+
+# Git hooks
+.husky/
+
+# Build artifacts
+.size-limit.json
